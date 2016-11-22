@@ -1,0 +1,19 @@
+{
+  "name": "todo-list-redux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "action.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/letrungkien0210/todo-list-redux.git"
+  },
+  "author": "Kien Le",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/letrungkien0210/todo-list-redux/issues"
+  },
+  "homepage": "https://github.com/letrungkien0210/todo-list-redux#readme"
+}
