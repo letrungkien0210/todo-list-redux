@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/letrungkien0210/todo-list-redux/issues"
   },
-  "homepage": "https://github.com/letrungkien0210/todo-list-redux#readme"
+  "homepage": "https://github.com/letrungkien0210/todo-list-redux#readme",
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-redux": "^4.4.6",
+    "redux": "^3.6.0"
+  }
 }
