@@ -1,27 +1,18 @@
 {
-  "name": "todo-list-redux",
-  "version": "1.0.0",
-  "description": "",
-  "main": "action.js",
-  "scripts": {
-    "test": ""
+  "name": "todo-list-react",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.7.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/letrungkien0210/todo-list-redux.git"
-  },
-  "author": "Kien Le",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/letrungkien0210/todo-list-redux/issues"
-  },
-  "homepage": "https://github.com/letrungkien0210/todo-list-redux#readme",
   "dependencies": {
     "react": "^15.4.1",
-    "react-redux": "^4.4.6",
-    "redux": "^3.6.0"
+    "react-dom": "^15.4.1"
   },
-  "devDependencies": {
-    "redux-devtools": "^3.3.1"
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
   }
 }
